@@ -1,7 +1,6 @@
 import logo from "./logo.png";
 
 import OhioState from "./OhioState.png";
-import OSUEngineering from "./OSUEngineering.jpg";
 import OSUEngineering2 from "./OSUEngineering2.jpg";
 import AILogo from "./AILogo.png";
 import CPCLogo from "./CPCLogo.jpg";
@@ -19,7 +18,6 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import java from "./tech/java.png";
 import cpg from "./tech/cpg.png";
@@ -44,7 +42,6 @@ import resume from "./ToryYang_Resume.pdf";
 export {
   logo,
   OhioState,
-  OSUEngineering,
   OSUEngineering2,
   AILogo,
   CPCLogo,
@@ -60,7 +57,6 @@ export {
   reactjs,
   redux,
   tailwind,
-  typescript,
   threejs,
   java,
   cpg,

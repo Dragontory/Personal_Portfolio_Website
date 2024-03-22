@@ -1,7 +1,6 @@
 //about
 import {
   OhioState,
-  OSUEngineering,
   OSUEngineering2,
   AILogo,
   CPCLogo,
@@ -41,7 +40,6 @@ import {
   RobotProject,
   Projects,
 } from "../assets";
-//Code for good, this website, osu feh
 
 export const navLinks = [
   {
