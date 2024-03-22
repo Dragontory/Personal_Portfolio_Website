@@ -22,7 +22,7 @@ import threejs from "./tech/threejs.svg";
 import java from "./tech/java.png";
 import cpg from "./tech/cpg.png";
 import linux from "./tech/linux.png";
-import python from "./tech/python.png";
+import python from "./tech/Python.png";
 import expressjs from "./tech/expressjs.png";
 import solidworks from "./tech/solidworks.png";
 import matlab from "./tech/matlab.png";
