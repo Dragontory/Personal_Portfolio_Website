@@ -38,6 +38,8 @@ import RobotProject from "./RobotProject.png";
 import Projects from "./Projects.png";
 
 import resume from "./ToryYang_Resume.pdf";
+import personalprofile from "./Personal_Profile.png";
+import linkedin from "./linkedin2.png";
 
 export {
   logo,
@@ -72,5 +74,7 @@ export {
   PersonalPortfolio,
   RobotProject,
   Projects,
-  resume
+  resume,
+  personalprofile,
+  linkedin,
 };

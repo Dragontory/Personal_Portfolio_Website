@@ -2,10 +2,11 @@ import React from "react";
 import "./style.css";
 import "./mediaqueries.css";
 import { styles } from "../../styles";
+import {resume, personalprofile, linkedin, github} from "../../constants";
 
 const Profile = () => {
   const openResume = () => {
-    window.open('../../src/assets/ToryYang_Resume.pdf');
+    window.open(resume);
   };
 
   const redirectToContact = () => {
@@ -23,7 +24,7 @@ const Profile = () => {
   return (
     <section id="profile" className="container mx-auto my-16 sm:my-20">
       <div className="section__pic-container">
-        <img src="../../src/assets/Personal_Profile.png" alt="Tory Yang profile picture" />
+        <img src={personalprofile} alt="Tory Yang profile picture" />
       </div>
       <div className="section__text mt-8 sm:mt-12">
         <p className={styles.sectionSubText}>Hello, I'm</p>
@@ -40,13 +41,13 @@ const Profile = () => {
         </div>
         <div id="socials-container" className="mt-6">
           <img
-            src="../../src/assets/linkedin2.png"
+            src={linkedin}
             alt="My LinkedIn profile"
             className="icon cursor-pointer"
             onClick={openLinkedInProfile}
           />
           <img
-            src="../../src/assets/github.png"
+            src={github}
             alt="My Github profile"
             className="icon cursor-pointer ml-4"
             onClick={openGitHubProfile}

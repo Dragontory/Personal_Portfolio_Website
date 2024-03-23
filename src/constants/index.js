@@ -41,6 +41,14 @@ import {
   Projects,
 } from "../assets";
 
+//profile
+import {
+  resume,
+  personalprofile,
+  linkedin,
+  github,
+} from "../assets";
+
 export const navLinks = [
   {
     id: "about",
@@ -260,4 +268,4 @@ const projects = [
   },
 ];
 
-export { services, technologies, experiences, projects };
+export { services, technologies, experiences, projects, resume, personalprofile, linkedin, github};
