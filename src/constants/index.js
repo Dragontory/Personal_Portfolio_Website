@@ -154,10 +154,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2023 - Present",
     points: [
-      "Collaborated with team members to develop and maintain the company web page to ensure enhanced user experience and up-to-date content",
-      "Built and programmed an interactive company calendar that could be used by both clients and staff",
-      "Monitored, serviced, and resolved technical requests (hardware and software) to prevent similar issues",
-      "Implemented improved processes in client acquisition, communication, and staff training to maximize efficiency",
+      "Collaborated with team members to design, develop, and maintain the company website, prioritizing user experience and content relevance",
+      "Built an interactive company calendar accessible to both clients and staff for efficient scheduling and organization",
+      "Monitored, serviced, and resolved technical issues (hardware and software) to preempt recurring problems",
+      "Implemented streamlined processes in client acquisition, communication, and staff training to maximize efficiency",
 
     ],
   },
@@ -168,9 +168,9 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - Present",
     points: [
-      "Tutored multiple students every week in Computer Science, Math, and Biology",
-      "Developed creative and individualized lesson plans for each student, improving average student performances",
-      "Formed personal bonds with each student and parents, improving and enhancing student experience",
+      "Provided weekly tutoring sessions to multiple students, covering a range of STEM subjects and topics including Computer Science, Math, and Biology",
+      "Developed customized lesson plans tailored to each student, resulting in measurable improvements in performance",
+      "Cultivated relationships with students and parents, fostering encouragement and a supportive learning environment",
       
     ],
   },
@@ -182,8 +182,8 @@ const experiences = [
     date: "Aug 2022 - Present",
     points: [
       "Produced models to accurately project the budget and allocate expenses throughout the year",
-      "Maintained and managed the budget of 100+ club members, increasing team funds by 20% from the previous year",
-      "Regularly communicated and attended meetings with other board members to increase productivity",
+      "Maintained and managed the budget of 100+ club members, increasing team funds and efficiency by 20%",
+      "Regularly engaged in communication and board meetings, fostering a collaborative and productive environment",
       
     ],
   },
@@ -194,10 +194,10 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "November 2023",
     points: [
-      "Worked with a team to develop a MERN stack application for Goodwill Columbus",
-      "Integrated Full Stack components to promote Goodwill’s program and stimulate real-time two-way communication",
-      "Implemented Tailwind and various mobile features to improve the user interface and enhance user experience",
-
+      "Collaborated with a team to develop a comprehensive MERN stack application benefiting Goodwill Columbus",
+      "Integrated Full Stack components to promote Goodwill's program and stimulate real-time two-way communication",
+      "Designed and implemented interactive components to enhance user experience and engagement",
+      "Optimized performance through efficient code practices and responsive design techniques for various devices",
     ],
   },
 ];
