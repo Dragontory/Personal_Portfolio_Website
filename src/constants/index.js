@@ -32,6 +32,7 @@ import {
   gpt,
   OSUct,
   jpm,
+  NASA,
 } from "../assets";
 
 //projects

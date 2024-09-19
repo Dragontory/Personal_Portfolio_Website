@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-        "Hi! My name's Tory, and I am currently a sophomore at THE Ohio State University 
+        "Hi! My name's Tory, and I am currently a Junior at THE Ohio State University 
         majoring in Computer Science and Engineering. My journey into the world of Computer Science 
         began back in my sophomore year of high school. Since then, my passion for the field 
         has only grown, propelling me towards further exploration and learning. 

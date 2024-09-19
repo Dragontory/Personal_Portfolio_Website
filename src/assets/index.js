@@ -32,6 +32,7 @@ import tca from "./company/tca.png";
 import gpt from "./company/gpt.png";
 import OSUct from "./company/OSUct.png";
 import jpm from "./company/jpm.png";
+import NASA from "./company/NASA.png";
 
 import PersonalPortfolio from "./PersonalPortfolio.png";
 import RobotProject from "./RobotProject.png";
@@ -71,6 +72,7 @@ export {
   gpt,
   OSUct,
   jpm,
+  NASA,
   PersonalPortfolio,
   RobotProject,
   Projects,
