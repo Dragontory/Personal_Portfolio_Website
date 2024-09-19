@@ -149,43 +149,31 @@ const technologies = [
 
 const experiences = [
   {
-    title: "HR Manager; IT Intern",
-    company_name: "Tender Care ABA",
-    icon: tca,
-    iconBg: "#E6DEDD",
-    date: "May 2023 - Present",
+    title: "Software Engineer Intern",
+    company_name: "The National Aeronautics and Space Administration (NASA)",
+    icon: NASA,
+    iconBg: "#FFFFFF",
+    date: "Aug 2024 - Present",
     points: [
-      "Collaborated with team members to design, develop, and maintain the company website, prioritizing user experience and content relevance",
-      "Built an interactive company calendar accessible to both clients and staff for efficient scheduling and organization",
-      "Monitored, serviced, and resolved technical issues (hardware and software) to preempt recurring problems",
-      "Implemented streamlined processes in client acquisition, communication, and staff training to maximize efficiency",
+      "Develop NASA’s inventory management program for the International Space Station using JavaScript, React, and Python/Django to deliver responsive UIs and seamlessly integrate NASA’s API and authentication system",
+      "Restructure MySQL database architecture by implementing efficient indexing, normalization, and optimized queries, resulting in a 30% increase in data entry efficiency and overall database performance",
+      "Utilize Postman for API testing and Docker for containerized development, ensuring robust communication between front-end and back-end components while facilitating smooth deployment processes",
+      "Collaborate with senior engineers to incorporate industry best practices in CI/CD pipelines using Jenkins, GitLab, and Kubernetes, ensuring continuous integration, delivery, and scalability",
 
     ],
   },
   {
-    title: "STEM Tutor",
-    company_name: "Grade Potential",
-    icon: gpt,
+    title: "Information Technology Intern",
+    company_name: "Tender Care ABA",
+    icon: tca,
     iconBg: "#E6DEDD",
-    date: "May 2022 - Present",
+    date: "May 2023 - Aug 2024",
     points: [
-      "Provided weekly tutoring sessions to multiple students, covering a range of STEM subjects and topics including Computer Science, Math, and Biology",
-      "Developed customized lesson plans tailored to each student, resulting in measurable improvements in performance",
-      "Cultivated relationships with students and parents, fostering encouragement and a supportive learning environment",
-      
-    ],
-  },
-  {
-    title: "Financial Officer",
-    company_name: "OSU Club Tennis",
-    icon: OSUct,
-    iconBg: "#E6DEDD",
-    date: "Aug 2022 - Present",
-    points: [
-      "Produced models to accurately project the budget and allocate expenses throughout the year",
-      "Maintained and managed the budget of 100+ club members, increasing team funds and efficiency by 20%",
-      "Regularly engaged in communication and board meetings, fostering a collaborative and productive environment",
-      
+      "Engineered and maintained the company website using React, Redux, and HTML/CSS, enhancing the user interface, optimizing site performance, and increasing web traffic by 25%",
+      "Integrated RESTful APIs to streamline data flow between the front-end and back-end systems, perform regular debugging and code optimization to ensure system reliability and responsiveness",
+      "Monitored, serviced, and resolved technical issues, implementing preventive measures to avoid recurrent problems",
+      "Optimized client acquisition and communication processes by automating workflow and improving user interaction",
+
     ],
   },
   {
@@ -199,6 +187,32 @@ const experiences = [
       "Integrated Full Stack components to promote Goodwill's program and stimulate real-time two-way communication",
       "Designed and implemented interactive components to enhance user experience and engagement",
       "Optimized performance through efficient code practices and responsive design techniques for various devices",
+    ],
+  },
+
+  {
+    title: "Financial Officer",
+    company_name: "OSU Club Tennis",
+    icon: OSUct,
+    iconBg: "#FFFFFF",
+    date: "Aug 2022 - Present",
+    points: [
+      "Generated financial models to project and allocate a budget of over $10,000, leading to a 20% increase in funds and improved expense management, while also optimizing resource allocation and reducing unnecessary expenditures",
+      "Worked closely with board members in strategic planning, regularly communicating financial updates and facilitating discussions to ensure fiscal responsibility and transparency",
+      
+    ],
+  },
+  {
+    title: "STEM Tutor",
+    company_name: "Grade Potential",
+    icon: gpt,
+    iconBg: "#E6DEDD",
+    date: "May 2022 - Present",
+    points: [
+      "Provided weekly tutoring sessions to multiple students, covering a range of STEM subjects and topics including Computer Science, Math, and Biology",
+      "Developed customized lesson plans tailored to each student's learning style and academic needs, resulting in measurable improvements in student performance",
+      "Cultivated strong relationships with students and parents through personalized attention and effective communication, fostering a supportive learning environment",
+      
     ],
   },
 ];
