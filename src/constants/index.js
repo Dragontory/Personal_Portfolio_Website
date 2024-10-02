@@ -261,9 +261,9 @@ const projects = [
     source_code_link: "https://u.osu.edu/feh231020h/",
   },
   {
-    name: "Additional Personal and Class Work",
+    name: "Other Personal Projects",
     description:
-      "Click on the icon in the top right to visit my GitHub! This consists of my additional personal and class projects, ranging from personal projects such as an AI article summarizer to guided class projects.",
+      "Click on the icon in the top right to visit my GitHub! This consists of my additional personal and class projects, ranging from personal projects such as an AI poem generator to full stack web applications.",
     tags: [
       {
         name: "react/javascript",
