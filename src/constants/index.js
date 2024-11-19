@@ -177,16 +177,16 @@ const experiences = [
     ],
   },
   {
-    title: "Code For Good 2023",
+    title: "Net2Connect - Code For Good 2024",
     company_name: "JP Morgan",
     icon: jpm,
     iconBg: "#E6DEDD",
     date: "November 2023",
     points: [
-      "Collaborated with a team to develop a comprehensive MERN stack application benefiting Goodwill Columbus",
-      "Integrated Full Stack components to promote Goodwill's program and stimulate real-time two-way communication",
-      "Designed and implemented interactive components to enhance user experience and engagement",
-      "Optimized performance through efficient code practices and responsive design techniques for various devices",
+      "Built a full-stack web app for Netcare Access using PostgreSQL, Express, React, and Node.js, parsing EHR and financial data to provide streamlined access through a user-friendly platform",
+      "Developed a query-based chatbot for intuitive data requests, enabling natural language searches, filtering, and targeted data retrieval",
+      "Designed dynamic dashboards with real-time visualizations, customized insights, and predictive analytics for enhanced decision-making and interactive data exploration",
+      "Implemented secure authentication and export features for compliance and data sharing, enabling comprehensive report generation and accessible, actionable insights",
     ],
   },
 
@@ -213,6 +213,19 @@ const experiences = [
       "Developed customized lesson plans tailored to each student's learning style and academic needs, resulting in measurable improvements in student performance",
       "Cultivated strong relationships with students and parents through personalized attention and effective communication, fostering a supportive learning environment",
       
+    ],
+  },
+  {
+    title: "Code For Good 2023",
+    company_name: "JP Morgan",
+    icon: jpm,
+    iconBg: "#E6DEDD",
+    date: "November 2023",
+    points: [
+      "Collaborated with a team to develop a comprehensive MERN stack application benefiting Goodwill Columbus",
+      "Integrated Full Stack components to promote Goodwill's program and stimulate real-time two-way communication",
+      "Designed and implemented interactive components to enhance user experience and engagement",
+      "Optimized performance through efficient code practices and responsive design techniques for various devices",
     ],
   },
 ];
@@ -263,7 +276,7 @@ const projects = [
   {
     name: "Other Personal Projects",
     description:
-      "Click on the icon in the top right to visit my GitHub! This consists of my additional personal and class projects, ranging from personal projects such as an AI poem generator to full stack web applications.",
+      "Click on the icon in the top right to visit my GitHub! This consists of my additional personal and class projects, ranging from personal projects such as a Python Web Scraper to full stack web applications.",
     tags: [
       {
         name: "react/javascript",
