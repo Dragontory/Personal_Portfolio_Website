@@ -21,7 +21,8 @@ import {
   python,
   expressjs,
   solidworks,
-  matlab
+  matlab,
+  sql
 
 } from "../assets";
 
@@ -110,8 +111,8 @@ const technologies = [
     icon: nodejs,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "SQL",
+    icon: sql,
   },
   {
     name: "git",

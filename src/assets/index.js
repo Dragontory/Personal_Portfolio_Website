@@ -26,6 +26,7 @@ import python from "./tech/Python.png";
 import expressjs from "./tech/expressjs.png";
 import solidworks from "./tech/solidworks.png";
 import matlab from "./tech/matlab.png";
+import sql from "./tech/sql.png";
   
 
 import tca from "./company/tca.png";
@@ -56,6 +57,7 @@ export {
   html,
   javascript,
   mongodb,
+  sql,
   nodejs,
   reactjs,
   redux,
