@@ -154,7 +154,7 @@ const experiences = [
     company_name: "The National Aeronautics and Space Administration (NASA)",
     icon: NASA,
     iconBg: "#FFFFFF",
-    date: "Aug 2024 - Present",
+    date: "Aug 2024 - Dec 2024",
     points: [
       "Develop NASA’s inventory management program for the International Space Station using JavaScript, React, and Python/Django to deliver responsive UIs and seamlessly integrate NASA’s API and authentication system",
       "Restructure MySQL database architecture by implementing efficient indexing, normalization, and optimized queries, resulting in a 30% increase in data entry efficiency and overall database performance",
