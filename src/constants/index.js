@@ -151,6 +151,16 @@ const technologies = [
 const experiences = [
   {
     title: "Software Engineer Intern",
+    company_name: "JP Morgan",
+    icon: jpm,
+    iconBg: "#E6DEDD",
+    date: "June 2025 - Present",
+    points: [
+      "Corporate Technology :)",
+    ],
+  },
+  {
+    title: "Software Engineer Intern",
     company_name: "The National Aeronautics and Space Administration (NASA)",
     icon: NASA,
     iconBg: "#FFFFFF",
@@ -216,19 +226,7 @@ const experiences = [
       
     ],
   },
-  {
-    title: "Code For Good 2023",
-    company_name: "JP Morgan",
-    icon: jpm,
-    iconBg: "#E6DEDD",
-    date: "November 2023",
-    points: [
-      "Collaborated with a team to develop a comprehensive MERN stack application benefiting Goodwill Columbus",
-      "Integrated Full Stack components to promote Goodwill's program and stimulate real-time two-way communication",
-      "Designed and implemented interactive components to enhance user experience and engagement",
-      "Optimized performance through efficient code practices and responsive design techniques for various devices",
-    ],
-  },
+  
 ];
 
 const projects = [

@@ -26,8 +26,8 @@ const Footer = () => {
           <a href="./#contact">Contact </a>
           <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">Blog (Coming Soon) </a>
         </p>
-        <p className = "link-2" >Phone: <a href="tel:+2166505526">+1 (216)-650-5526</a></p>
-        <p className = "link-2" >Email: <a href="mailto:yang.6485@osu.edu">yang.6485@osu.edu</a></p>
+        <p className = "link-2" >Phone: <a href="./#contact">Contact</a></p>
+        <p className = "link-2" >Email: <a href="mailto:toryyang03@gmail.com">toryyang03@gmail.com</a></p>
         <p>Tory Yang 2024</p>
       </div>
     </footer>
