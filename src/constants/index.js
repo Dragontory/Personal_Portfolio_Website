@@ -166,10 +166,7 @@ const experiences = [
     iconBg: "#FFFFFF",
     date: "Aug 2024 - Dec 2024",
     points: [
-      "Develop NASA’s inventory management program for the International Space Station using JavaScript, React, and Python/Django to deliver responsive UIs and seamlessly integrate NASA’s API and authentication system",
-      "Restructure MySQL database architecture by implementing efficient indexing, normalization, and optimized queries, resulting in a 30% increase in data entry efficiency and overall database performance",
-      "Utilize Postman for API testing and Docker for containerized development, ensuring robust communication between front-end and back-end components while facilitating smooth deployment processes",
-      "Collaborate with senior engineers to incorporate industry best practices in CI/CD pipelines using Jenkins, GitLab, and Kubernetes, ensuring continuous integration, delivery, and scalability",
+      "IMP ;D"
 
     ],
   },
@@ -180,10 +177,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2023 - Aug 2024",
     points: [
-      "Engineered and maintained the company website using React, Redux, and HTML/CSS, enhancing the user interface, optimizing site performance, and increasing web traffic by 25%",
-      "Integrated RESTful APIs to streamline data flow between the front-end and back-end systems, perform regular debugging and code optimization to ensure system reliability and responsiveness",
-      "Monitored, serviced, and resolved technical issues, implementing preventive measures to avoid recurrent problems",
-      "Optimized client acquisition and communication processes by automating workflow and improving user interaction",
+      "WebDev >.<"
 
     ],
   },
@@ -194,10 +188,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "November 2023",
     points: [
-      "Built a full-stack web app for Netcare Access using PostgreSQL, Express, React, and Node.js, parsing EHR and financial data to provide streamlined access through a user-friendly platform",
-      "Developed a query-based chatbot for intuitive data requests, enabling natural language searches, filtering, and targeted data retrieval",
-      "Designed dynamic dashboards with real-time visualizations, customized insights, and predictive analytics for enhanced decision-making and interactive data exploration",
-      "Implemented secure authentication and export features for compliance and data sharing, enabling comprehensive report generation and accessible, actionable insights",
+      "Hackathon :0"
     ],
   },
 
@@ -208,8 +199,7 @@ const experiences = [
     iconBg: "#FFFFFF",
     date: "Aug 2022 - Present",
     points: [
-      "Generated financial models to project and allocate a budget of over $10,000, leading to a 20% increase in funds and improved expense management, while also optimizing resource allocation and reducing unnecessary expenditures",
-      "Worked closely with board members in strategic planning, regularly communicating financial updates and facilitating discussions to ensure fiscal responsibility and transparency",
+      "Money $_$"
       
     ],
   },
@@ -220,9 +210,7 @@ const experiences = [
     iconBg: "#E6DEDD",
     date: "May 2022 - Present",
     points: [
-      "Provided weekly tutoring sessions to multiple students, covering a range of STEM subjects and topics including Computer Science, Math, and Biology",
-      "Developed customized lesson plans tailored to each student's learning style and academic needs, resulting in measurable improvements in student performance",
-      "Cultivated strong relationships with students and parents through personalized attention and effective communication, fostering a supportive learning environment",
+      "Tutoring :p"
       
     ],
   },
