@@ -35,7 +35,7 @@ import OSUct from "./company/OSUct.png";
 import jpm from "./company/jpm.png";
 import NASA from "./company/NASA.png";
 
-import PersonalPortfolio from "./PersonalPortfolio.png";
+import ClarifY from "./ClarifY.png";
 import RobotProject from "./RobotProject.png";
 import Projects from "./Projects.png";
 
@@ -75,7 +75,7 @@ export {
   OSUct,
   jpm,
   NASA,
-  PersonalPortfolio,
+  ClarifY,
   RobotProject,
   Projects,
   resume,

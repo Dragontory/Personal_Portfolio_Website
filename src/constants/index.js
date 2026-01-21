@@ -38,7 +38,7 @@ import {
 
 //projects
 import {
-  PersonalPortfolio,
+  ClarifY,
   RobotProject,
   Projects,
 } from "../assets";
@@ -219,24 +219,24 @@ const experiences = [
 
 const projects = [
   {
-    name: "ToryYang.com",
+    name: "ClarifY",
     description:
-      "Introducing my personal portfolio web application, showcasing my experience, skills, and projects. Leveraging multiple JavaScript libraries and styling techniques to enhance UI/UX design, ensuring a mobile-friendly, user-friendly, and versatile website experience.",
+      "An AI-powered educational platform that transforms PDF notes into interactive, visually rich video lessons. Built with a multi-agent pipeline that analyzes content, generates scripts, and produces mathematical animations via Manim—wrapped in a modern React interface with 3D components and smooth motion design.",    
     tags: [
       {
-        name: "react",
+        name: "fastapi",
         color: "blue-text-gradient",
       },
       {
-        name: "javascript",
+        name: "react",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "multi-agent ai",
         color: "pink-text-gradient",
       },
     ],
-    image: PersonalPortfolio,
+    image: ClarifY,
     source_code_link: "https://github.com/Dragontory/",
   },
   {
