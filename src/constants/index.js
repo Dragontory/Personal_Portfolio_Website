@@ -34,6 +34,9 @@ import {
   OSUct,
   jpm,
   NASA,
+  ClarifY2,
+  HackMIT,
+  OSU
 } from "../assets";
 
 //projects
@@ -154,9 +157,9 @@ const experiences = [
     company_name: "JP Morgan",
     icon: jpm,
     iconBg: "#E6DEDD",
-    date: "June 2025 - Present",
+    date: "June 2025 - Aug 2025",
     points: [
-      "Corporate Technology :)",
+      "Data Platforms :)",
     ],
   },
   {
@@ -166,7 +169,7 @@ const experiences = [
     iconBg: "#FFFFFF",
     date: "Aug 2024 - Dec 2024",
     points: [
-      "IMP ;D"
+      "IMP and Simulation Modules ;D"
 
     ],
   },
@@ -179,6 +182,26 @@ const experiences = [
     points: [
       "WebDev >.<"
 
+    ],
+  },
+  {
+    title: "Undergraduate Teaching Assistant",
+    company_name: "Ohio State University Department of Computer Science and Engineering",
+    icon: OSU,
+    iconBg: "#E6DEDD",
+    date: "Aug 2025 - Present",
+    points: [
+      "CSE 3901 :D"
+    ],
+  },
+  {
+    title: "HackMIT",
+    company_name: "HackMIT",
+    icon: HackMIT,
+    iconBg: "#E6DEDD",
+    date: "Setptember 2025",
+    points: [
+      "Hackathon :0"
     ],
   },
   {

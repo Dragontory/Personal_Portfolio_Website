@@ -34,6 +34,9 @@ import gpt from "./company/gpt.png";
 import OSUct from "./company/OSUct.png";
 import jpm from "./company/jpm.png";
 import NASA from "./company/NASA.png";
+import ClarifY2 from "./company/ClarifY2.png";
+import HackMIT from "./company/HackMIT.png";
+import OSU from "./company/OhioState.png";
 
 import ClarifY from "./ClarifY.png";
 import RobotProject from "./RobotProject.png";
@@ -81,4 +84,7 @@ export {
   resume,
   personalprofile,
   linkedin,
+  ClarifY2,
+  HackMIT,
+  OSU,
 };
